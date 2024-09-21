@@ -18,4 +18,4 @@ Invoke-WebRequest -UseBasicParsing -Uri https://raw.githubusercontent.com/junegu
 
 Copy-Item -Path ".\coc-settings.json" -Destination "C:\Users\Stephen\AppData\Local\nvim\"
 
-$InitVim | Out-File -FilePath "C:\Users\Stephen\AppData\Local\nvim\init.vim"
+$InitVim | Out-File -FilePath "C:\Users\Stephen\AppData\Local\nvim\init.vim" -Encoding utf8
