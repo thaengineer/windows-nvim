@@ -1,1 +1,1 @@
-# Neovim for Windows
+# Neovim config
