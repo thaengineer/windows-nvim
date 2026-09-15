@@ -1,4 +1,5 @@
 *
+!nvim/init.lua
 !*.lua
 !*.md
 !LICENSE
