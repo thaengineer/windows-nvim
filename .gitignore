@@ -1,5 +1,8 @@
 *
-!nvim/init.lua
+!nvim
+!nvim/lua/config
+!nvim/lua/plugins
+!nvim/lua/plugins/lsp
 !*.lua
 !*.md
 !LICENSE
