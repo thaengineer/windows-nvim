@@ -1,7 +1,5 @@
 *
 !*.lua
-!*/*.lua
-!*/*/*.lua
 !*.md
 !LICENSE
 
